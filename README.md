@@ -21,9 +21,13 @@ The project follows a standard Maven directory structure:
 
 src
 │ └── main
+
 │ ├── java # Java source files
+
 │ ├── resources # Resource files
+
 │ └── webapp # Web application resources
+
 └── pom.xml # Maven project configuration
 
 
