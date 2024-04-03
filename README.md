@@ -20,6 +20,7 @@ This project is a demo application for managing a ski station using Spring Boot.
 The project follows a standard Maven directory structure:
 
 src
+
 │ └── main
 
 │ ├── java # Java source files
